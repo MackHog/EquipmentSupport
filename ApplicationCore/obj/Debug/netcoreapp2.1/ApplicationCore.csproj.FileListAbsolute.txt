@@ -1,0 +1,8 @@
+C:\Users\hoglu\Desktop\Stratsys\EquipmentSupport\ApplicationCore\bin\Debug\netcoreapp2.1\ApplicationCore.deps.json
+C:\Users\hoglu\Desktop\Stratsys\EquipmentSupport\ApplicationCore\bin\Debug\netcoreapp2.1\ApplicationCore.dll
+C:\Users\hoglu\Desktop\Stratsys\EquipmentSupport\ApplicationCore\bin\Debug\netcoreapp2.1\ApplicationCore.pdb
+C:\Users\hoglu\Desktop\Stratsys\EquipmentSupport\ApplicationCore\obj\Debug\netcoreapp2.1\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\hoglu\Desktop\Stratsys\EquipmentSupport\ApplicationCore\obj\Debug\netcoreapp2.1\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\hoglu\Desktop\Stratsys\EquipmentSupport\ApplicationCore\obj\Debug\netcoreapp2.1\ApplicationCore.AssemblyInfo.cs
+C:\Users\hoglu\Desktop\Stratsys\EquipmentSupport\ApplicationCore\obj\Debug\netcoreapp2.1\ApplicationCore.dll
+C:\Users\hoglu\Desktop\Stratsys\EquipmentSupport\ApplicationCore\obj\Debug\netcoreapp2.1\ApplicationCore.pdb

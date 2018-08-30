@@ -1,0 +1,11 @@
+C:\Users\hoglu\Desktop\Stratsys\EquipmentSupport\Infrastructure\bin\Debug\netcoreapp2.1\Infrastructure.deps.json
+C:\Users\hoglu\Desktop\Stratsys\EquipmentSupport\Infrastructure\bin\Debug\netcoreapp2.1\Infrastructure.dll
+C:\Users\hoglu\Desktop\Stratsys\EquipmentSupport\Infrastructure\bin\Debug\netcoreapp2.1\Infrastructure.pdb
+C:\Users\hoglu\Desktop\Stratsys\EquipmentSupport\Infrastructure\bin\Debug\netcoreapp2.1\ApplicationCore.dll
+C:\Users\hoglu\Desktop\Stratsys\EquipmentSupport\Infrastructure\bin\Debug\netcoreapp2.1\ApplicationCore.pdb
+C:\Users\hoglu\Desktop\Stratsys\EquipmentSupport\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\hoglu\Desktop\Stratsys\EquipmentSupport\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\hoglu\Desktop\Stratsys\EquipmentSupport\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\hoglu\Desktop\Stratsys\EquipmentSupport\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.AssemblyInfo.cs
+C:\Users\hoglu\Desktop\Stratsys\EquipmentSupport\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.dll
+C:\Users\hoglu\Desktop\Stratsys\EquipmentSupport\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.pdb
